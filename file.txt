@@ -1,7 +1,4 @@
 Hello From Github
-ssgadhdgshs
-dasdadgjfsdg
-sdfhdghffgeirw
 Git to jenkins to Maven
 Good Bye!......
 
